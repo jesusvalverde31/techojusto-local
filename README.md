@@ -39,3 +39,9 @@ Privacy-first local housing comparison app. It reveals the full monthly cost bey
 ## Vídeo demo de 60 segundos
 
 0–10 s: alquiler frente a coste total. 10–24 s: filtros y KPIs. 24–38 s: comparar Centro y Periferia en canvas y tabla. 38–49 s: editar transporte y ver el recálculo/historial. 49–56 s: vista móvil a 360 px. 56–60 s: privacidad local, cero dependencias y límites reales.
+
+## Copyright
+
+Copyright © 2026 Jesús Valverde. All rights reserved. This source code
+is public for portfolio review; no open-source license is granted.
+See `LICENSE`.
