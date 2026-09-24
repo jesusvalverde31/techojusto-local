@@ -1,0 +1,1 @@
+{"name":"techojusto-local","version":"1.0.0","private":true,"scripts":{"start":"node server.cjs","test":"node --test --test-isolation=none test/server.test.cjs"},"engines":{"node":">=24"}}
