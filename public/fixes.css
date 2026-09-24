@@ -1,0 +1,4 @@
+.meter progress{display:block;width:100%;height:7px;border:0;background:#e4e4dd;accent-color:var(--coral)}
+.meter progress::-webkit-progress-bar{background:#e4e4dd}.meter progress::-webkit-progress-value{background:var(--coral)}.meter progress::-moz-progress-bar{background:var(--coral)}
+.legend{display:flex;flex-wrap:wrap;gap:.7rem;margin:.7rem 0 0;font-size:.75rem}.legend span{display:flex;align-items:center;gap:.35rem}.legend i{width:.8rem;height:.8rem;border-radius:3px;border:1px solid rgba(0,0,0,.12)}
+.swatch-0{background:#173d31}.swatch-1{background:#4f8d75}.swatch-2{background:#86bea8}.swatch-3{background:#f4c95d}.swatch-4{background:#f0a66e}.swatch-5{background:#f47b61}.swatch-6{background:#9d86c7}
